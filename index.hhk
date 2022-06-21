@@ -303,6 +303,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_apply_action_setting_result.html#a451a7d6a6813f36febe868a58ce7c208"><param name="Name" value="CanApplySettings"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_ai_malgam_entity_base_engine.html#aeb17b40ad7f1ddecda96ea67292f845e"><param name="Name" value="CanStackAction"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_ai_malgam_entity_base_engine.html#a6696da65c0c605bcce3abc84642f5bc2"><param name="Name" value="CanStackSetting"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a0dbd34e209ecb25ab4c92ad8cde8984c"><param name="Name" value="CheckRequiredDescriptors"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a4148d0f94ec1027d44fc67d281fa683e"><param name="Name" value="CheckRequiredEngines"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_ai_malgam_entity_base_engine.html#a2eeb7e90d4223d29d0bf68e288e23179"><param name="Name" value="CheckSubscribeEntityStateChanged"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_base_lemma.html#ab37a93de0aea6233dc2f0780dfc26e5b"><param name="Name" value="Children"></OBJECT>
@@ -310,6 +311,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#a5748b9749ecaee719f98bf4fdd26f220"><param name="Name" value="CleanInvalidEngines"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a13087e447c14131f071fb5a96787a785"><param name="Name" value="Clear"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_base_lemma.html#a65121e0da3a882bf870cd734875da400"><param name="Name" value="ClearChildren"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#ab033ba23fdc4e7185a765cb706118900"><param name="Name" value="CollectRequiredDescriptorsForConditionSettings"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a14bab0286c50a8755141ea50932d95cb"><param name="Name" value="CollectRequiredEnginesForActionSettings"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_base_comparison.html#a42c4e6a3cbdea6d7f59d68bface6b8c4"><param name="Name" value="Compare"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_a_n_d_conditions_container.html#a8c23a33ff04061af96a520dc5279c468"><param name="Name" value="Conditions"></OBJECT>
@@ -711,6 +713,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamBaseDescriptor"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html#a44ef8fdc9e23c62ed8380036c6cbb1bc"><param name="Name" value="_prevAiMalgamEntity"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamBaseDescriptor"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html#a807dcaee3f621ff19328d073dc8f9780"><param name="Name" value="addThisToEntity"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamBaseDestinationContainerWithRuntimeSet"></OBJECT>
@@ -769,11 +775,11 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#ab7e267b2ca72a618f1844b4d39525f6b"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#ab7e267b2ca72a618f1844b4d39525f6b"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_i_list_wrapper.html"><param name="Name" value="NikosAssets::AiMalgam::Helpers::IListWrapper"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_list_wrapper.html"><param name="Name" value="NikosAssets::AiMalgam::Helpers::ListWrapper"></OBJECT>
@@ -1024,11 +1030,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNode"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html#a6b6762fa7cce9eacfb4b0b46096ec69d"><param name="Name" value="MarkInGraph"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html#abdfcb4f9e134b278df3924ebef2cbc74"><param name="Name" value="MarkInGraph"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNode"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html#abdfcb4f9e134b278df3924ebef2cbc74"><param name="Name" value="MarkInGraph"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html#a6b6762fa7cce9eacfb4b0b46096ec69d"><param name="Name" value="MarkInGraph"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNode"></OBJECT>
   <UL>
@@ -1061,6 +1067,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#ab033ba23fdc4e7185a765cb706118900"><param name="Name" value="CollectRequiredDescriptorsForConditionSettings"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a14bab0286c50a8755141ea50932d95cb"><param name="Name" value="CollectRequiredEnginesForActionSettings"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
@@ -1082,6 +1092,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a2090e7dcfb57561042291763eba9f0a1"><param name="Name" value="collapseNodesOnPanning"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a7819dcaf0bd91930b714d4ec40ddc690"><param name="Name" value="requiredDescriptorsForConditions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::AiMalgamNodeGraph"></OBJECT>
   <UL>
@@ -1427,7 +1441,7 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamScoreDecider"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html#af90c6532f18d822d75f7cec7d8317840"><param name="Name" value="successIfAnyPasses"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html#a0392514006f518958ee9903c74d1e0cd"><param name="Name" value="tryNextOnFailedChild"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_settings_score_sorter.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamSettingsScoreSorter"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_settings_score_sorter.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamSettingsScoreSorter"></OBJECT>
@@ -1664,6 +1678,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a0dbd34e209ecb25ab4c92ad8cde8984c"><param name="Name" value="CheckRequiredDescriptors"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a4148d0f94ec1027d44fc67d281fa683e"><param name="Name" value="CheckRequiredEngines"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
@@ -1680,11 +1698,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#ae45c3a0a9eac0e09c660a4041599f9a9"><param name="Name" value="MakeDecision"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a47518e97542dd67423f816cb514e2cb4"><param name="Name" value="MakeDecision"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a47518e97542dd67423f816cb514e2cb4"><param name="Name" value="MakeDecision"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#ae45c3a0a9eac0e09c660a4041599f9a9"><param name="Name" value="MakeDecision"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
@@ -1704,6 +1722,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a14d67d371499c9e44c48a081e0982e0b"><param name="Name" value="_descriptorsRequiredByGraph"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#aa35c6418c999b4b3ddc79c6fa90b324c"><param name="Name" value="_enginesRequiredByGraph"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
@@ -1713,6 +1735,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a3aad92ac2e2b4129f5ac7e6573f6c15c"><param name="Name" value="_nodeGraph"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a0d5b9fa68763b2f475c70aa18c092459"><param name="Name" value="_prevNodeGraph"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html"><param name="Name" value="NikosAssets::AiMalgam::Systems::Decisions::AiMalgamBaseDecisionSystem"></OBJECT>
   <UL>
@@ -1887,13 +1913,13 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#ae9693062c301810d26ca9e55a48be6b4"><param name="Name" value="RemoveDescriptor"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#a9f70ea7305650cc8ad5a609e31cf9c15"><param name="Name" value="RemoveEngine"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#a11b78fa204a875016380071f7cecbac3"><param name="Name" value="RemoveState"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#ab7e267b2ca72a618f1844b4d39525f6b"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#ab7e267b2ca72a618f1844b4d39525f6b"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="ReordableNodeListAttribute"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_helpers_1_1_attributes_1_1_reordable_node_list_attribute.html#acf603b1b12deba7426e9557efcd5da45"><param name="Name" value="NikosAssets::AiMalgam::Helpers::Attributes::ReordableNodeListAttribute"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node.html#a4f898f72d97073286dd9ae67c38761bf"><param name="Name" value="ResetMarkingInGraph"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_async_action_queue_handler.html#ad817bf1bcc97a98171ea9c83b9d74b50"><param name="Name" value="RestartSequenceOnSameDecision"></OBJECT>
@@ -2053,6 +2079,7 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_base_condition_for_descriptors.html#ad80b368b2c7e958bf083d241c8a54eac"><param name="Name" value="NikosAssets::AiMalgam::Settings::Conditions::AiMalgamBaseConditionForDescriptors"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#abb8b491cab22cd3c65ec415eae3e7461"><param name="Name" value="_descriptors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a14d67d371499c9e44c48a081e0982e0b"><param name="Name" value="_descriptorsRequiredByGraph"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_ai_malgam_entity.html#a47acdbab51fe6d52a4ef6e554355bfdf"><param name="Name" value="_engines"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#aa35c6418c999b4b3ddc79c6fa90b324c"><param name="Name" value="_enginesRequiredByGraph"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_base_lemma.html#ac1c80a36539f54eb3362cb5d49fc0089"><param name="Name" value="_isLeaf"></OBJECT>
@@ -2063,7 +2090,14 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#aef9a7ef297615fe64e946fc2b471c766"><param name="Name" value="_makeDecision"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a3aad92ac2e2b4129f5ac7e6573f6c15c"><param name="Name" value="_nodeGraph"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_base_lemma.html#abe4fd95b36acff6cf0fd8986e32349f0"><param name="Name" value="_oldParent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html#a44ef8fdc9e23c62ed8380036c6cbb1bc"><param name="Name" value="_prevAiMalgamEntity"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_descriptor.html#a44ef8fdc9e23c62ed8380036c6cbb1bc"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamBaseDescriptor"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_ai_malgam_entity_base_engine.html#aad46be090ffefd2830b1a656243bfc8d"><param name="Name" value="_prevAiMalgamEntity"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_ai_malgam_entity_base_engine.html#aad46be090ffefd2830b1a656243bfc8d"><param name="Name" value="NikosAssets::AiMalgam::Systems::Engines::AiMalgamEntityBaseEngine"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html#afaec08b0232d34597e10bfd2fd9a1f0c"><param name="Name" value="_prevCopyFromRuntimeSet"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html#afaec08b0232d34597e10bfd2fd9a1f0c"><param name="Name" value="AiMalgamBaseDestinationContainerWithRuntimeSet&lt; AiMalgamEntity, AiMalgamEntityRuntimeSet &gt;"></OBJECT>
@@ -2076,6 +2110,7 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html#afaec08b0232d34597e10bfd2fd9a1f0c"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamBaseDestinationContainerWithRuntimeSet"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_decisions_1_1_ai_malgam_base_decision_system.html#a0d5b9fa68763b2f475c70aa18c092459"><param name="Name" value="_prevNodeGraph"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html#a2848f827dfd7366aacb4313ff1b818db"><param name="Name" value="_prevStoreInRuntimeSet"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_base_destination_container_with_runtime_set.html#a2848f827dfd7366aacb4313ff1b818db"><param name="Name" value="AiMalgamBaseDestinationContainerWithRuntimeSet&lt; AiMalgamEntity, AiMalgamEntityRuntimeSet &gt;"></OBJECT>
@@ -2264,6 +2299,7 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_settings_score_sorter.html#a5055580cfb88d63bec703b36369363b5"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamSettingsScoreSorter"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#a7819dcaf0bd91930b714d4ec40ddc690"><param name="Name" value="requiredDescriptorsForConditions"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_node_graph.html#ab8b255fd1f4db44fdad413ee72169f9a"><param name="Name" value="requiredEnginesForActions"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_multiple_decider.html#a9558f7fb268278e9caefcc002bafd892"><param name="Name" value="restartSequenceOnSameDecision"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_base_settings.html#a8fc67da17a6b74793cdfab14ba08ec20"><param name="Name" value="restoreValuesOnDispose"></OBJECT>
@@ -2311,13 +2347,6 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_base_settings.html#a30d1c82cb6553aaca41b34f3ab247060"><param name="Name" value="succeedOnStackLimitReached"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_multiple_decider.html#a48d931e576e7901b261fc5a035d74b68"><param name="Name" value="successIfAnyPasses"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_multiple_decider.html#a48d931e576e7901b261fc5a035d74b68"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamMultipleDecider"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html#af90c6532f18d822d75f7cec7d8317840"><param name="Name" value="successIfAnyPasses"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html#af90c6532f18d822d75f7cec7d8317840"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamScoreDecider"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_tag_condition.html#a6decb14e2d4a4694e424241c16ea699b"><param name="Name" value="tagToCompare"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_decider_score_sorter.html#ae48f912750659f77046b1d7ab37fd560"><param name="Name" value="target"></OBJECT>
   <UL>
@@ -2327,6 +2356,7 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_settings_score_sorter.html#a88e380a28ef4cfea50598606e3fa3c18"><param name="Name" value="NikosAssets::AiMalgam::Settings::Deciders::AiMalgamSettingsScoreSorter"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_deciders_1_1_ai_malgam_score_decider.html#a0392514006f518958ee9903c74d1e0cd"><param name="Name" value="tryNextOnFailedChild"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_name_condition.html#a7ae8eeed56b245476b2dc940410c7eec"><param name="Name" value="useEqualsOtherwiseContains"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_condition_result_reader.html#a5487fc871046a4cdf36922a655d56034"><param name="Name" value="useKey"></OBJECT>
 </UL>
